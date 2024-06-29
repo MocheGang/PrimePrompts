@@ -1,0 +1,8 @@
+//debut d'algorithme
+variable nombre 1=10
+variable nombre2=20
+
+//calcul la somme
+variable somme=nombre 1 + nombre 2
+
+//affichifer le resultat
